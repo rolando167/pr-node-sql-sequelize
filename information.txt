@@ -1,0 +1,36 @@
+22/09/2021
+
+Node JS + sequelize + Sql Server y Store Procedures - Propio
+
+-----------------------
+https://sequelize.org/master/manual/getting-started.html
+
+instalar para Microsoft SQL Server
+
+> npm install --save tedious
+
+-----------------------
+Ejemplo general:
+https://www.bezkoder.com/node-js-sql-server-crud/
+
+-----------------------
+Importante:
+Desde sql server configuration manager debe esta habilitada las connecciones,
+ver imagen "condig1Sql"
+
+
+
+----------------------- OTRA FORMA
+
+Conectar a Sql Server con NodeJS de una manera sencilla
+
+YT:https://www.youtube.com/watch?v=9LjcWGB3EJI&list=PLIyua1a92yWej1XPVMAMnSK_H0-jDu4Nq&index=3
+
+https://www.npmjs.com/package/rest-mssql-nodejs
+-----------------------
+
+
+----------------------- con sqlite3
+https://pharos.sh/usando-sequelize-orm-con-node-js-y-express/
+
+https://stackoverflow.com/questions/38293900/nodejs-singelton-for-database-connection-with-sequalize
